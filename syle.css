@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(224, 243, 243);
+}
+
+
+h1{
+    text-align: center;
+    color: grey;
+}
+
+h2{
+    color:rgb(172, 170, 154) ;
+}
+footer{
+    text-align: center;
+    font-style: italic;
+    color: rebeccapurple;
+}
+
+a{
+    color: rgb(120, 109, 50);
+}
